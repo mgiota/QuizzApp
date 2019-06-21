@@ -16,5 +16,32 @@
       {"value": "Bonjour", "correct": false},
       {"value": "pi", "correct": false}
     ]
+  },
+  {
+    "label": "What is 3 * 9?",
+    "choices": [
+      {"value": "100", "correct": false},
+      {"value": "27", "correct": true},
+      {"value": "Bonjour", "correct": false},
+      {"value": "pi", "correct": false}
+    ]
+  },
+  {
+    "label": "What is a prime number?",
+    "choices": [
+      {"value": "0", "correct": false},
+      {"value": "333", "correct": false},
+      {"value": "181", "correct": true},
+      {"value": "85", "correct": false}
+    ]
+  },
+  {
+    "label": "What is the root of 81?",
+    "choices": [
+      {"value": "2398", "correct": false},
+      {"value": "-1", "correct": false},
+      {"value": "Bonjour", "correct": false},
+      {"value": "9", "correct": true}
+    ]
   }
 ]
