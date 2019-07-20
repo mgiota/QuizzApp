@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Maths",
+    "name": "maths",
+    "description": "Math Quiz",
+    "fileName": "maths.json"
+  },
+  {
+    "label": "French",
+    "name": "french",
+    "description": "French Quiz",
+    "fileName": "french.json"
+  }
+]
